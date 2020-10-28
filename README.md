@@ -1,6 +1,6 @@
 # LibreNms
 
-Docker Compose files for setting up Libre NMS.
+Docker setup for installing Libre NMS.
 
 ## Installing
 
